@@ -1,2 +1,2 @@
 # tutorial
-For Tutorial
+This is the tutorial for Git Commands
